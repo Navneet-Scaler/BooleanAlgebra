@@ -3,7 +3,7 @@
 
 # Boolean Algebra Topics 
 1. [Boolean variables](../08_Boolean_Algebra/1BooleanVariable/)
-    * [Is Even Number](../08_Boolean_Algebra/1BooleanVariable/1IsEvenNumber.py)
+    * [Is Even Number](1BooleanVariable/1IsEvenNumber.py)
     * [Is Number Positive](../08_Boolean_Algebra/1BooleanVariable/2IsNumberPositive.py)
     * []()
 
