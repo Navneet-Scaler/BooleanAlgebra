@@ -1,0 +1,8 @@
+Topic 1. Boolean Variable
+
+Def : A Boolean variable is a type of variable that can only hold two possible values: true or false. In computer science, boolean variables are commonly represented by letters such as p, q, or r. Some examples of Boolean variables are true/false, 1/0, yes/no alive/dead. 
+
+1. It is often used in programming to determine the flow of control.
+2. Boolean algebra is a notation for representing Boolean functions, which are functions that map an n-tuple of (0,1) values to {0,1}.
+3. In programming languages, Boolean values are often considered as a subrange of the unsigned integers, restricted to the values zero (false) and one (true).
+4. A truth table is a method of describing a Boolean function that contains a row for every combination of the variables and prescribes the value of the function (0 or 1) for each of these combinations. It is used to prove Boolean algebraic expressions and to exhaustively enumerate the mapping of a Boolean function. Truth tables are canonical representations of Boolean functions, and two Boolean functions are equivalent if and only if they have the same truth table. The truth table representation of a Boolean function has strict limitations, and it is of little practical use to the circuit designer for functions with many input variables.
