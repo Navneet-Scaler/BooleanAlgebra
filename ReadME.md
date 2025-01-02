@@ -5,7 +5,7 @@
 1. [Boolean variables](1BooleanVariable/)
     * [Is Even Number](1BooleanVariable/1IsEvenNumber.py)
     * [Is Number Positive](1BooleanVariable/2IsNumberPositive.py)
-    * []()
+    * [Is String Palindrome](1BooleanVariable/3IsStringPalindrome.py)
 
 -> [Boolean Variable Project](1BooleanvariableProject/) 
 

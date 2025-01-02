@@ -33,6 +33,6 @@ def is_palindrome(str):
 
 str = input("Enter a string: ")
 if(is_palindrome(str)):
-    print("yes, Palindrome")
+    print("Yes, Palindrome")
 else:
     print("No, Not Palindrome")
