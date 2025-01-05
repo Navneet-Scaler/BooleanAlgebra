@@ -35,4 +35,4 @@ str = input("Enter a string: ")
 if(is_palindrome(str)):
     print("Yes, Palindrome")
 else:
-    print("No, Not Palindrome")
+    print("No, Not a Palindrome ")
